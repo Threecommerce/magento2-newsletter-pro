@@ -2,7 +2,7 @@
 
 Upgrades the stock Magento newsletter subscription form into a **GDPR-ready, marketing-oriented form**: first name, last name, marketing opt-in and explicit consent, plus a switch to turn off the notification emails Magento sends for subscriptions.
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Themes: Luma-based
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Themes: Luma-based
 **License:** commercial · coming soon
 
 ## Features
@@ -17,7 +17,7 @@ Upgrades the stock Magento newsletter subscription form into a **GDPR-ready, mar
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - `Magento_Newsletter`
 - The form template is built for Luma-based themes (it uses Magento's standard form validation); Hyvä and Breeze use their own newsletter templates.
 
